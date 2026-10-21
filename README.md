@@ -11,6 +11,7 @@
 - [วิธีทำงานร่วมกัน](docs/team-workflow.md)
 - [งานที่ต้องทำ](docs/tasks.md)
 - [บันทึกการตัดสินใจ](docs/decisions.md)
+- [ภาพแนวคิด v03 ไอโซเมทริกดำ–แดงพร้อมขนาด](Gokart_IDEA/Concepts/kart-concept-v03-isometric.png) — มิติเป้าหมายจากงานศึกษา ไม่ใช่แบบผลิต
 - [ภาพแนวคิด v02](Gokart_IDEA/Concepts/kart-concept-v02.png)
 - [ภาพและคลิปอ้างอิง](Gokart_IDEA/References/)
 
