@@ -7,6 +7,7 @@
 - [บริบทและข้อกำหนดโครงการ](Gokart_IDEA/PROJECT_CONTEXT.md) — แหล่งอ้างอิงหลัก ไม่สร้าง Context ซ้ำอีกชุด
 - [ข้อเสนอผู้บริหาร](docs/management-proposal-th.md) / [Word](docs/management-proposal-th.docx) — ร่างเพื่อหารือ งบและเวลาเป็นประมาณการ ยังไม่ใช่อนุมัติผลิต
 - [งบและเกณฑ์เครื่องพร้อมโชว์](docs/show-ready-plan-th.md) — ประมาณการสองทางเลือกและร่างเกณฑ์ตรวจรับ 16 ด้าน
+- [ท่านั่ง วัสดุ และวิธีประกอบ](docs/seating-materials-assembly-th.md) / [Word](docs/seating-materials-assembly-th.docx) — งานศึกษาสำหรับ Mark พร้อมภาพและตาราง mock-up ยังไม่ใช่แบบผลิต
 - [วิธีทำงานร่วมกัน](docs/team-workflow.md)
 - [งานที่ต้องทำ](docs/tasks.md)
 - [บันทึกการตัดสินใจ](docs/decisions.md)
