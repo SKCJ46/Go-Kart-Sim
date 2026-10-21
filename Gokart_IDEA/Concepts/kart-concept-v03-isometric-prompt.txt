@@ -1,0 +1,11 @@
+Concept v03 — 21 October 2026 (Asia/Bangkok)
+User request: photorealistic isometric view, realistic adult kart proportions, black/red visual theme 80/20, dimensions shown.
+Generated with built-in image_gen using kart-concept-v02.png as a visual reference.
+Output: kart-concept-v03-isometric.png. Original retained in /workspace/generated_images/exec-c5f3eecb-5884-45b2-ad1b-aefa32663fc6.png.
+
+Generation brief summary:
+Elevated rear-left orthographic/isometric studio product rendering. Matte/satin black with deep racing red accents, approximately 80/20 of designed product surfaces. Four small kart slick tyres, low kart shell on dual slider/cradle, single 310 mm wheel, separated left brake/right throttle, three equal 27-inch 16:9 monitors attached to moving frame, four compact inward-positioned motion columns, accessible E-stop, external PC omitted for clarity. Main circular tubes OD 34 x 2.3 mm and nominal 40 x 40 mm crossmembers. Simplified chassis, no engine/fuel/drivetrain.
+Dimension targets chosen within the preliminary study: BODY LENGTH 1800 mm, BODY WIDTH 1300 mm, WHEELBASE 1045 mm, displays 615 x 365 mm each. Overall body dimensions exclude displays and motion operating envelope. Small footer: DIMENSIONED CONCEPT - NOT A MANUFACTURING DRAWING.
+
+Status/limitations:
+User selected the presentation style/colour ratio for this image. Exact body dimensions were selected by the assistant from study ranges; they are not approved fabrication dimensions. Wheelbase 1045 mm is an adult-kart reference, not a confirmed simulator layout. Image generation does not guarantee scale, isometric projection, exact surface colour percentages, dimension-line geometry, mounting compatibility or structural performance. Do not measure from image pixels. Preserve v01/v02 and references. No engineering/CAD/load validation performed.
