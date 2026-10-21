@@ -1,0 +1,20 @@
+{
+  "revision": "v04.1",
+  "units": "mm",
+  "status": "proposed mock-up layout, not manufacturing dimensions",
+  "datum": "S at seat-surface buttock/backrest junction, rail at mid travel; X forward; Y driver left; cockpit floor Z=0; not anatomical H-point",
+  "body": {"rear_x": -550, "front_x": 1250, "half_width": 650},
+  "axles": {"rear_x": -220, "front_x": 825, "status": "illustrative axle positions; wheelbase reference 1045"},
+  "seat_S": {"x": 0, "y": 0, "z": 120},
+  "steering_W": {"x": 400, "y": 0, "z": 420, "rim_diameter": 310},
+  "pedal_B": {"x": 900, "y": 180, "z": 100},
+  "pedal_T": {"x": 900, "y": -180, "z": 100},
+  "seat_back_angle_deg_from_rearward_horizontal": 60,
+  "adjustments": {"seat_total_x": 230, "pedals_total_x": 150, "steering_total_x": 100, "steering_total_z": 100},
+  "seat_shell_max_width_example": 500,
+  "seat_install_bay_example": 540,
+  "tyres": {"rear_diameter": 280, "rear_width": 180, "front_diameter": 255, "front_width": 115, "rear_y_abs": 560, "front_y_abs": 592.5, "centre_z_example": 60},
+  "monitors": {"count": 3, "diagonal_in": 27, "housing_width_example": 615, "housing_height_example": 365, "side_angle_deg_example": 50, "centre_plane_x_example": 700, "bottom_z_example": 620, "position_status": "illustrative, set after eye/FOV and clearance study"},
+  "frame": {"round_od": 34, "round_wall": 2.3, "box_width": 40, "box_height": 40, "box_wall": 2.3},
+  "to_measure": ["GM5 mounting XYZ and hole pattern", "GM5 installed and operating heights", "seat shell mounting holes and cradle", "selected FFB and pedals mounting envelope", "monitor VESA depth and mass", "motion swept and access envelope", "tube bends and weld geometry"]
+}
