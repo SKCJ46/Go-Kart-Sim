@@ -1,0 +1,6 @@
+test_id,date,tester_id,height_mm,mass_kg,shoe_size,hip_width_seated_mm,seat_model_size,seat_back_deg_from_horizontal,seat_slider_mm,pedal_carrier_mm,S_height_above_cockpit_floor_mm,S_to_pedal_X_mm,S_to_wheel_X_mm,wheel_above_S_mm,pedal_contact_centres_mm,min_knee_clearance_mm,full_pedal_reach,full_steering_clearance,entry_exit,notes,photo_reference
+MOCK-01,,,,,,,,,,,,,,,,,,,,,
+MOCK-02,,,,,,,,,,,,,,,,,,,,,
+MOCK-03,,,,,,,,,,,,,,,,,,,,,
+MOCK-04,,,,,,,,,,,,,,,,,,,,,
+MOCK-05,,,,,,,,,,,,,,,,,,,,,
