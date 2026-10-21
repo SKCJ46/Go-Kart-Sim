@@ -4,6 +4,9 @@
 
 ## เริ่มอ่านที่นี่
 
+- [ชุดสรุปคุยทีมล่าสุด](docs/team-brief-th.md) / [Word](docs/team-brief-th.docx) / [PDF](docs/team-brief-th.pdf) — เปิดคุยกับ Mark/Chin และหัวหน้า
+- [แผ่นระยะ v04.1 สองมุม](docs/dimension-study/kart-dimension-study-v04.pdf) — พิกัดร่วมสำหรับ mock-up ไม่ใช่แบบผลิต
+
 - [บริบทและข้อกำหนดโครงการ](Gokart_IDEA/PROJECT_CONTEXT.md) — แหล่งอ้างอิงหลัก ไม่สร้าง Context ซ้ำอีกชุด
 - [ข้อเสนอผู้บริหาร](docs/management-proposal-th.md) / [Word](docs/management-proposal-th.docx) — ร่างเพื่อหารือ งบและเวลาเป็นประมาณการ ยังไม่ใช่อนุมัติผลิต
 - [งบและเกณฑ์เครื่องพร้อมโชว์](docs/show-ready-plan-th.md) — ประมาณการสองทางเลือกและร่างเกณฑ์ตรวจรับ 16 ด้าน
