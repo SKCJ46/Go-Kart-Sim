@@ -4,7 +4,8 @@
 
 ## เริ่มอ่านที่นี่
 
-- [ชุดสรุปคุยทีมล่าสุด](docs/team-brief-th.md) / [Word](docs/team-brief-th.docx) / [PDF](docs/team-brief-th.pdf) — เปิดคุยกับ Mark/Chin และหัวหน้า
+- **[สรุปคุยทีม HTML ฉบับอ่านง่าย](docs/team-brief-th.html)** — ข้อมูลที่มีแล้วและเรื่องที่ต้องตกลงเพิ่ม เปิดได้จากไฟล์เดียว
+- [เอกสารคุยทีมฉบับเต็ม](docs/team-brief-th.md) / [Word](docs/team-brief-th.docx) / [PDF](docs/team-brief-th.pdf)
 - [แผ่นระยะ v04.1 สองมุม](docs/dimension-study/kart-dimension-study-v04.pdf) — พิกัดร่วมสำหรับ mock-up ไม่ใช่แบบผลิต
 
 - [บริบทและข้อกำหนดโครงการ](Gokart_IDEA/PROJECT_CONTEXT.md) — แหล่งอ้างอิงหลัก ไม่สร้าง Context ซ้ำอีกชุด
