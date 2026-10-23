@@ -4,7 +4,7 @@
 
 ## เริ่มอ่านที่นี่
 
-- **[เปิดสไลด์นำเสนอพร้อมภาพ 12 หน้า](docs/team-slides-th.html)** — เลื่อนทีละประเด็น ภาพขยายได้ เปิดออฟไลน์จากไฟล์เดียว
+- **[เปิดสไลด์สรุป Context v2.3 พร้อมภาพ 16 หน้า](docs/team-slides-th.html)** — เลื่อนทีละประเด็น ภาพขยายได้ เปิดออฟไลน์จากไฟล์เดียว · [PDF สไลด์](docs/project-context-slides-v2-3.pdf) · [วิธีใช้](docs/team-slides-README.md)
 
 - **[สรุปคุยทีม HTML ฉบับอ่านง่าย](docs/team-brief-th.html)** — ข้อมูลที่มีแล้วและเรื่องที่ต้องตกลงเพิ่ม เปิดได้จากไฟล์เดียว
 - [เอกสารคุยทีมฉบับเต็ม](docs/team-brief-th.md) / [Word](docs/team-brief-th.docx) / [PDF](docs/team-brief-th.pdf)
