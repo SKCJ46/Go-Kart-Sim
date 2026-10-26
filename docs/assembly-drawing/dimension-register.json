@@ -1,0 +1,232 @@
+{
+  "revision": "B",
+  "date": "2026-10-26",
+  "units": "mm",
+  "status": "proposed assembly dimension study; not fabrication release",
+  "source": "../dimension-study/layout-v04.json (v04.1), ../seating-materials-assembly-th.md",
+  "body_envelope": {
+    "length": 1800,
+    "width": 1300,
+    "includes": "tyres/body; excludes monitors, sweep, access",
+    "bare_frame_size": "TBD"
+  },
+  "datum": "S at seat-surface buttock/backrest junction, rail at mid travel; X forward; Y driver left; cockpit floor Z=0; not anatomical H-point",
+  "points": {
+    "seat_S": {
+      "x": 0,
+      "y": 0,
+      "z": 120
+    },
+    "steering_W": {
+      "x": 400,
+      "y": 0,
+      "z": 420,
+      "rim_diameter": 310
+    },
+    "pedal_B": {
+      "x": 900,
+      "y": 180,
+      "z": 100
+    },
+    "pedal_T": {
+      "x": 900,
+      "y": -180,
+      "z": 100
+    }
+  },
+  "horizontal": {
+    "S_W": 400,
+    "S_P": 900,
+    "W_P": 500,
+    "wheelbase_ref": 1045
+  },
+  "vertical": {
+    "S_floor": 120,
+    "W_S": 300,
+    "W_floor_derived": 420
+  },
+  "pedal_contact_centres": 360,
+  "adjustment_totals": {
+    "seat_total_x": 230,
+    "pedals_total_x": 150,
+    "steering_total_x": 100,
+    "steering_total_z": 100
+  },
+  "frame_section_proposals": {
+    "round_od": 34,
+    "round_wall": 2.3,
+    "box_width": 40,
+    "box_height": 40,
+    "box_wall": 2.3
+  },
+  "register_rows": [
+    [
+      "01",
+      "ขนาดรวมตัวรถ ยาว / กว้าง",
+      "1800 x 1300",
+      "1700-1850 / 1200-1350",
+      "P; envelope incl. tyres/body, not bare steel"
+    ],
+    [
+      "02",
+      "ฐานล้อ",
+      "1045",
+      "Choose real kart",
+      "REF; axle positions in drawing illustrative"
+    ],
+    [
+      "03",
+      "S ถึงพวงมาลัย แนวนอน",
+      "400",
+      "350-450",
+      "P; same S datum at mid rail"
+    ],
+    [
+      "04",
+      "S ถึงแป้น แนวนอน",
+      "900",
+      "800-1000",
+      "P; foot contact not mounting holes"
+    ],
+    [
+      "05",
+      "พวงมาลัยถึงแป้น แนวนอน",
+      "500",
+      "Derived from chosen X",
+      "D; 900-400, not 400+900"
+    ],
+    [
+      "06",
+      "S สูงจากพื้น Cockpit",
+      "120",
+      "100-160",
+      "P; local floor, not room ground"
+    ],
+    [
+      "07",
+      "พวงมาลัยสูงกว่า S",
+      "300",
+      "250-350",
+      "P; vertical difference"
+    ],
+    [
+      "08",
+      "พวงมาลัยสูงจากพื้น Cockpit",
+      "420",
+      "From S + W/S",
+      "D; 120+300 at example position"
+    ],
+    [
+      "09",
+      "มุมพนักจากแนวนอนชี้ไปท้ายรถ",
+      "60 deg",
+      "58-63 deg",
+      "P; not seat-to-back angle"
+    ],
+    [
+      "10",
+      "ช่วงเลื่อนเบาะรวม",
+      "230",
+      "200-230",
+      "P; lock both rails; endpoint geometry TBD"
+    ],
+    [
+      "11",
+      "ช่วงเลื่อนชุดแป้นรวม",
+      "150",
+      "Trial proposed",
+      "P; carrier and lock geometry TBD"
+    ],
+    [
+      "12",
+      "ช่วงปรับพวงมาลัยรวม",
+      "X 100 / Z 100",
+      "Trial proposed",
+      "P; slot / lock geometry TBD"
+    ],
+    [
+      "13",
+      "ระยะศูนย์กลางแป้นซ้าย–ขวา",
+      "360",
+      "320-400",
+      "P; verify cables and driver posture"
+    ],
+    [
+      "14",
+      "เส้นผ่านศูนย์กลางวง",
+      "310 example",
+      "300-320 trial; 330 candidate",
+      "P; chosen model still not selected"
+    ],
+    [
+      "15",
+      "ช่องติดตั้งเบาะ / shell ตัวอย่าง",
+      "540 / 500",
+      "Bay 520-560",
+      "P; measure shell + support + tools"
+    ],
+    [
+      "16",
+      "ช่องเข่าถึงชิ้นส่วนแข็ง",
+      ">=50 proposed",
+      "Check every tested posture",
+      "P; not a certified pinch/safety distance"
+    ],
+    [
+      "17",
+      "กรอบจอภาพตัวอย่าง",
+      "3 x 615 x 365",
+      "3 x 27 in reference",
+      "P; selected housing/VESA still TBD"
+    ],
+    [
+      "18",
+      "มุมจอข้าง / พื้นที่วางจอ",
+      "50 deg example",
+      "45-55 deg / 1500-1700",
+      "P; width allowance excludes sweep/access"
+    ],
+    [
+      "19",
+      "ยางหลัง / หน้า ตัวอย่างในภาพ",
+      "280 x 180 / 255 x 115",
+      "Drawing examples only",
+      "P; diameter x width, not selected tyres"
+    ]
+  ],
+  "fabrication_TBD": [
+    [
+      "Bare frame layout",
+      "Rail spacing, cross-member XYZ, tube centre-lines, joints"
+    ],
+    [
+      "Tube fabrication",
+      "Member cut lengths, mitres/fishmouths, bend angles/radii, developed lengths"
+    ],
+    [
+      "GM5 interface",
+      "Actual XYZ, hole/threads, mounting thickness/torque, load cases"
+    ],
+    [
+      "Seat / slider",
+      "Chosen shell holes/supports, rail pitch, stop/lock points, installed height"
+    ],
+    [
+      "FFB / pedals",
+      "Selected models, hole patterns, plate shape, cables and permitted separate mounts"
+    ],
+    [
+      "Monitor support",
+      "Selected VESA, screen depth/mass, support height, eye/FOV and arm lengths"
+    ],
+    [
+      "Assembly controls",
+      "Tolerances, jig datums, weld symbols/map, bolt grades/torques, finish masks"
+    ],
+    [
+      "Operating envelope",
+      "Motion installed/working heights, swept volume, access and transport clearances"
+    ]
+  ],
+  "illustrative_only": "All drawn rail paths, shell profiles, mount supports, tyre Z, axle offsets and screen positions; do not extract part lengths from graphics"
+}
